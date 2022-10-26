@@ -1,2 +1,2 @@
 # codigo
-Código de proramación de polinomios
+Código de programción de polinomios
